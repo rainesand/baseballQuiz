@@ -1,0 +1,21 @@
+body {
+    background-image: url(assets/Field-of-Dreams.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.quizArea {
+    text-align: center;
+    padding: 19%;
+}
+
+.title {
+    font-weight: bold;
+    color: rgb(190, 0, 0);
+}
+
+.subtitle {
+    color: rgb(68, 68, 240);
+
+}
